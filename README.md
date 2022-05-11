@@ -13,7 +13,7 @@ You need to install ```pygame``` package at first.
 This code was implemented and tested with python 3.8.
 
 ### How to execute and play
-Main code is ```game.py```, so you need to execute it to play the game as follows:
+The main code is ```game.py```, so you need to execute it to play the game as follows:
 
 ```
 git clone https://github.com/hayanz/brave_gooreum-pygame.git
