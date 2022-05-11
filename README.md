@@ -1,16 +1,19 @@
 # brave_gooreum-pygame
-## game implementation in python with pygame package (final project in 2020-fall DCCP class)
+### Game implementation in python with pygame package
+### (Final project in 2020-fall DCCP class)
+
+
 
 ### Install dependencies
-``` C
+You need to install ```pygame``` package at first.
+```
   python -m pip install pygame
 ```
 This code was implemented and tested with python 3.8.
 
 ### How to execute and play
-
-``` C
-git clone 
+```
+git clone https://github.com/hayanz/brave_gooreum-pygame.git
 cd brave_gooreum_pygame
 python main.py
 ```
