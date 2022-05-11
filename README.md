@@ -22,4 +22,4 @@ python game.py
 ```
 
 ### Copyrights of images and sounds
-I designed the main character, 'gooreum' by myself. and the source of other images and sounds are annotated on the code.
+I designed the main character, 'gooreum' by myself, and the source of other images and sounds are annotated on the code.
