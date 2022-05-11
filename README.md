@@ -21,5 +21,5 @@ cd brave_gooreum_pygame
 python game.py
 ```
 
-### copyrights of images and sounds
+### Copyrights of images and sounds
 I designed the main character, 'gooreum' by myself. and the source of other images and sounds are annotated on the code.
